@@ -1,5 +1,6 @@
 div {
     background-color: rgb(251, 255, 0);
+    border-radius: 10px;
 }
 p {
     padding-left: 16px;
